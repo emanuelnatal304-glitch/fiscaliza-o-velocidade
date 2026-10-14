@@ -1,0 +1,6 @@
+FISCALIZAÇÃO ELETRÔNICA - PONTE RIO-NITERÓI (simulação acadêmica)
+Ordem: 1) Supabase (execute banco.sql e crie o usuário em Authentication > Users)
+       2) config.js (URL e chave publishable) e teste local com Live Server
+       3) GitHub (index.html na raiz)  4) Vercel (Framework Other, sem build)
+Velocidade média = distância (km) / tempo (h). Distância: 13,29 km. Confirme o limite oficial em config.js.
+Nunca use a chave service_role/sb_secret nem a senha do banco no código.
